@@ -15,6 +15,7 @@ public class Point {
     public int getY() { return y; }
     public void setY(int y) { this.y = y;}
 
+
     public static void distance() {
         Point p1 = new Point(133, 24);
         int D = p1.getX() - p1.getY();

@@ -1,6 +1,4 @@
-package com.sazakimaeda;
-
-import com.sun.security.jgss.GSSUtil;
+package com.sazakimaeda.oop;
 
 public class telephone extends Computer {
     private int weight;

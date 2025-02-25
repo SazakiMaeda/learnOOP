@@ -1,4 +1,4 @@
-package com.sazakimaeda;
+package com.sazakimaeda.oop;
 
 public class Ram {
     private int ram;
