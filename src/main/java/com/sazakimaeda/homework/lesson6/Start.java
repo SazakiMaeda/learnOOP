@@ -21,6 +21,5 @@ public class Start {
         for(Flyeble flyeble : flyebles) {
             flyeble.fly();
         }
-
     }
 }
